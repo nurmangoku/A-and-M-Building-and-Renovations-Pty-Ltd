@@ -107,34 +107,34 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Looking to breathe new life into your living space? Our team specializes in creating stunning home transformations tailored to your needs. From extensions and granny flats to complete renovations, we deliver exceptional results. Our expertise extends to functional and stylish spaces, including kitchens, bathrooms, and laundries. We also excel at building beautiful decking, pergolas, and BBQ decks, perfect for outdoor entertainment. Need to enhance your property's functionality? Our concreting services cover everything from footings to concrete driveways. We also offer interior and exterior painting, ensuring every detail reflects your vision.Let us bring warmth and character to your home with unique additions like saunas, glasshouses, or even custom-built entertainment areas. Whether you’re looking to add a water feature, a fish pond, or a playful kids’ area, we’ve got you covered.Transform your space with a team that cares about the details. Contact us today for a consultation!",
+    name: "Aaron Morley",
+    title: "Director of A and M Building and Renovations Pty Ltd",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Elevate your outdoor experience with our premium construction and landscaping solutions. Whether it’s a cozy pergola, a spacious alfresco area, or durable fencing, we craft designs that blend functionality with aesthetics.Create the perfect backyard retreat with custom decks, pool areas, and spa setups. Add charm and security with electric gates and beautifully designed balustrading. We also specialize in retainer walls, ensuring your outdoor spaces are both safe and stylish.Lighting sets the mood, and we offer tailored deck lighting, BBQ lighting, and driveway lighting to bring ambiance to your nights. Add sophistication with landscaping, including lush gardens and bespoke tennis courts.Our versatile services include roofing, welding, and even custom garages or carports to complete your outdoor haven. No matter your vision, our team is ready to turn your dream space into reality.Ready to enhance your outdoor lifestyle? Reach out to us today!",
+    name: "Mayang Sari Morley",
+    title: "Director of A and M Building and Renovations Pty Ltd",
   },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
+  // {
+  //   quote:
+  //     "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+  //   name: "Michael Johnson",
+  //   title: "Director of AlphaStream Technologies",
+  // },
+  // {
+  //   quote:
+  //     "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+  //   name: "Michael Johnson",
+  //   title: "Director of AlphaStream Technologies",
+  // },
+  // {
+  //   quote:
+  //     "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+  //   name: "Michael Johnson",
+  //   title: "Director of AlphaStream Technologies",
+  // },
 ];
 
 export const companies = [
